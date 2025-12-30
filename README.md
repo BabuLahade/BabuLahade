@@ -54,7 +54,7 @@ To start my career as a **DevOps / Cloud Engineer**, work on real-world infrastr
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *(add your LinkedIn link here)*
-- 📧 Email: *(add your email here)*
+- 💼 LinkedIn: www.linkedin.com/in/babu-lahade-656034223
+- 📧 Email: babulahade@gmail.com
 
 ⭐ **I believe in learning by doing and continuous improvement**
