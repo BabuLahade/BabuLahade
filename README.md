@@ -9,13 +9,13 @@
 ## 🔧 Skills & Tools
 
 - **Operating System:** Linux (Ubuntu)
-- **Cloud:** AWS (EC2, S3, IAM, VPC – Basics)
+- **Cloud:** AWS (EC2, S3, IAM, VPC )
 - **DevOps Tools:** Docker, Jenkins, Git & GitHub
-- **Containers & Orchestration:** Docker, Kubernetes (Basics)
+- **Containers & Orchestration:** Docker, Kubernetes 
 - **CI/CD:** Jenkins Declarative Pipelines
-- **Scripting:** Bash (Basic)
-- **Monitoring:** Learning Prometheus & Grafana
-- **Infrastructure:** Learning Terraform
+- **Scripting:** Bash
+- **Monitoring:** Prometheus & Grafana
+- **Infrastructure:** Terraform
 
 ---
 
