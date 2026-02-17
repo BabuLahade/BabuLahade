@@ -14,7 +14,7 @@
 - **Containers & Orchestration:** Docker, Kubernetes 
 - **CI/CD:** Jenkins Declarative Pipelines
 - **Scripting:** Bash
-- **Monitoring:** Prometheus & Grafana
+- **Monitoring:** Prometheus & Grafana , Alertmanager
 - **Infrastructure:** Terraform
 
 ---
