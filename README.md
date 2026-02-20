@@ -1,6 +1,6 @@
 #  Hi, I'm Babu Lahade
 
- **Fresher DevOps / Cloud Engineer**  
+ **DevOps Engineer & SRE**  
  Postgraduate | Passionate about Cloud & DevOps  
  India (Open to Pune / Bangalore / Remote)
 
