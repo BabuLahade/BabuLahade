@@ -98,6 +98,12 @@ and love creating **automation tools using Python** 🚀
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BabuLahade&show_icons=true&theme=default&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=BabuLahade&theme=default&hide_border=true)
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BabuLahade&show_icons=true&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=BabuLahade&hide_border=true)
 ### 📌 Current Focus
 - DevOps / Cloud Engineer (Associate Level)
 - Real-world AWS + Terraform projects
