@@ -2,7 +2,7 @@
  ## 👋 Hi, I'm Babu Lahade
 
 I enjoy working with **AWS, CI/CD pipelines, Docker, Terraform**,  
-and love creating **automation tools using Python** 🚀
+and love creating **automation tools using Python** 
 
 ---
 
