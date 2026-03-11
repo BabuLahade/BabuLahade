@@ -44,6 +44,8 @@ and love creating **automation tools using Python**
 ## GitHub Status 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BabuLahade&show_icons=true&theme=default)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BabuLahade&layout=compact)
+
 ---
 ### 📌 Current Focus
 - DevOps / Cloud Engineer (Associate Level)
