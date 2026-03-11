@@ -39,6 +39,12 @@ and love creating **automation tools using Python**
 ![GitHub Streak](https://streak-stats.demolab.com?user=BabuLahade&theme=default&hide_border=true)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=babulahade&color=blue)
+
+---
+## GitHub Status 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BabuLahade&show_icons=true&theme=default)
+
+---
 ### 📌 Current Focus
 - DevOps / Cloud Engineer (Associate Level)
 - Real-world AWS + Terraform projects
