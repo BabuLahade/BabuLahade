@@ -1,4 +1,10 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077ff&height=200&section=header&text=Babu%20Lahade&fontSize=40&fontColor=ffffff)
+
+---
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Babu+Lahade;DevOps+Engineer;Cloud+%7C+Terraform+%7C+AWS" />
+
+---
  ## 👋 Hi, I'm Babu Lahade
 
 I enjoy working with **AWS, CI/CD pipelines, Docker, Terraform**,  
@@ -39,6 +45,8 @@ and love creating **automation tools using Python**
 ![GitHub Streak](https://streak-stats.demolab.com?user=BabuLahade&theme=default&hide_border=true)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=babulahade&color=blue)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BabuLahade&theme=github)
 
 ---
 ## GitHub Status 
