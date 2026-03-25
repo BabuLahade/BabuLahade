@@ -10,7 +10,7 @@
  ## 👋 Hi, I'm Babu Lahade
 
 I enjoy working with **AWS, CI/CD pipelines,Github Actions , Jenkins ,Kubernetes, Docker, Terraform,Kubernetes**,  
-and love creating **automation tools using Bash / Python** 
+and love creating **automation and shell scripting tools using Bash / Python** 
 
 ---
 
