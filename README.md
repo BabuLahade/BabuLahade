@@ -38,7 +38,7 @@ and love creating **automation and shell scripting tools using Bash / Python**
 | **Cloud** ☁️ | Build, deploy, scale & secure systems on AWS | AWS, EC2, S3, IAM, VPC | 🔹 Securing VPC<br>🔹 Movie Ticket Booking System (3-Tier)<br>🔹 Attendance App (AWS SDK)<br>🔹 Serverless File Uploader |
 | **DevOps** ⚙️ | Complete CI/CD & Infra automation from scratch | Docker, Jenkins, Terraform, Ansible, Prometheus, Grafana | 🔹 All-in-One DevOps Project<br>🔹 CI/CD Pipeline with Jenkins |
 | **SCM** 🔁 | Version control & repo management | Git, GitHub, GitLab | 🔹 Git & GitHub Setup<br>🔹 GitLab Profile |
-| **IaC** 🏗 | Infrastructure automation & provisioning | Terraform, AWS | 🔹 VPC + EC2 using Terraform<br>🔹 Auto Scaling Setup |
+| **IaC** 🏗 | Infrastructure automation & provisioning ,Modules | Terraform, AWS | 🔹 VPC + EC2 using Terraform<br>🔹 Auto Scaling Setup |
 
 ---
 ## 📊 GitHub Activity
