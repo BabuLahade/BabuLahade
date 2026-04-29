@@ -61,7 +61,7 @@ and love creating **automation and shell scripting tools using Bash / Python**
 - DevOps / Cloud Engineer (Associate Level)
 - Real-world AWS + Terraform projects
 - CI/CD automation & security (DevSecOps)
-
+- SRE
 ---
 
 ### 📫 Connect With Me
